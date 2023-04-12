@@ -1,2 +1,2 @@
 # Neural_Networks
-This repository all projects related to neural networks
+This repository includes all projects related to neural networks
